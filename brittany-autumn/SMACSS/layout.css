@@ -19,10 +19,10 @@ a {
 .nav-ul {
   display: none;
 }
-
 nav:hover .nav-ul {
   display: block;
-} 
+  background-color: darkgrey;
+}
 
 .hamburger {
   display: block;
